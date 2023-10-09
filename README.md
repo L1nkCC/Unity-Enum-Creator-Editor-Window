@@ -3,7 +3,6 @@
 
  NOTE: The Window does not provide checks against keywords and will throw Errors if these are submitted
 
-![Enum Creator Window Menu Path](https://github.com/L1nkCC/Unity-Enum-Creator-Editor-Window/assets/93938878/253946f6-5806-4968-98c7-195e3d0a3f76)
-
+![Enum Creator Window Menu Path](https://github.com/L1nkCC/Unity-Enum-Creator-Editor-Window/assets/93938878/ca938eec-a2a5-4ec7-b013-e3c9e9d5334b)
 
 ![Enum Creator Window](https://github.com/L1nkCC/Unity-Enum-Creator-Editor-Window/assets/93938878/53bc6b15-deb3-4403-8563-03a864f2b7eb)
