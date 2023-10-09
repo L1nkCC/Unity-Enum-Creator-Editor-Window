@@ -30,7 +30,7 @@ namespace CC.Enum.Editor
         string EnumTypeToDelete => EnumTypes[m_enumTypeToDeleteIndex];
 
 
-        [MenuItem(BASE_MENU_PATH, true, 0)]
+        [MenuItem(BASE_MENU_PATH)]
         public static void CreateWindow()
         {
             GetWindow<EnumEditorWindow>();
